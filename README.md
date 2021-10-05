@@ -8,4 +8,4 @@ This is the required code of the paper /  report named Image Based Plant Disease
 4. Install the required libraries from the requirements.txt file.
 5. Execute the code.
 
-##### For more information, Please refer the SRS. #####
+##### For more information, Please refer the Project Synopsis Report. #####
